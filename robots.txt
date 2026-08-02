@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-zcp59z.haybaleman.co.nz/sitemap.xml
